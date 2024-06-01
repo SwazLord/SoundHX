@@ -8,8 +8,13 @@ The goal of SoundHX is to simplifying playback of your audio files, with a focus
 #Features
 
 API Chaining: SoundHX.play("music").fadeTo(0);
+
 Supports groups of sounds
+
 Supports seamless looping
-Supports workaround for the 'looping bug' (http://www.stevensacks.net/2008/08/07/as3-sound-channel-bug/)
+
+Supports workaround for the [looping bug](http://www.stevensacks.net/2008/08/07/as3-sound-channel-bug/)
+
 Built-in Tweening system, no dependancies
+
 Modular API: Use SoundInstance directly and ignore the rest.
