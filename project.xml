@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="SoundHX" package="com.treefortress.soundhx" version="1.0.0" company="TreeFortress" />
+	<app main="Main" path="Export" file="SoundHX" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="msignal" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
